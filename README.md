@@ -51,3 +51,9 @@ Approximately 2,800 patients have no risk of CHD, while around 500 patients are 
 Count Plot: Shows the distribution of CHD risk among males and females.
 
 ![Screenshot (33)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/a6b42967-e5b2-4b40-b006-ae03282106f7)
+
+Approximately 250 females and 300 males are at risk of CHD.
+### - Smoking Status and CHD Risk
+Bar Plot: Illustrates the CHD risk based on smoking status.
+
+![Screenshot (34)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/0e724cd4-dcce-4160-ab3b-b803a56eb83d)
