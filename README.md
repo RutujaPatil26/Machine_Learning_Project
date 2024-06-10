@@ -57,3 +57,11 @@ Approximately 250 females and 300 males are at risk of CHD.
 Bar Plot: Illustrates the CHD risk based on smoking status.
 
 ![Screenshot (34)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/0e724cd4-dcce-4160-ab3b-b803a56eb83d)
+
+Patients who smoke have a higher risk of CHD compared to non-smokers.
+### - Outliers in Data
+Box Plot: Identifies outliers in the dataset. Values above 100 and below 50 in certain attributes are acting as outliers.
+### - Heart Rate by Hypertension Status
+Box Plot: Examines the patients without hypertension tend to have a slightly higher median heart rate compared to patients with hypertension.The interquartile range (IQR) indicates the variability in heart rate within each group.
+
+![Screenshot (35)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/307381eb-ce34-4149-b62c-9d942db38063)
