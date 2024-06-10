@@ -38,4 +38,4 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset a
 #### - Gender Distribution
 Count Plot: Shows the distribution of patients by gender. 
 
-![Screenshot (31)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/601251ba-a282-466d-8290-d4a609fa269e)
+![2024-06-10 (1)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/9540de3e-9d57-4bdf-8f96-dd495515ba09)
