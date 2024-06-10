@@ -45,3 +45,9 @@ There are more than 1,750 female patients and approximately 1,500 male patients.
 Count Plot: Displays the distribution of patients with and without CHD risk.
 
 ![Screenshot (32)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/cd99092a-c6e6-4962-8f6b-a3a602b53285)
+
+Approximately 2,800 patients have no risk of CHD, while around 500 patients are at risk.
+#### - CHD Risk by Gender
+Count Plot: Shows the distribution of CHD risk among males and females.
+
+![Screenshot (33)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/a6b42967-e5b2-4b40-b006-ae03282106f7)
