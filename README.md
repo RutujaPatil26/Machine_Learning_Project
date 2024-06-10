@@ -65,3 +65,9 @@ Box Plot: Identifies outliers in the dataset. Values above 100 and below 50 in c
 Box Plot: Examines the patients without hypertension tend to have a slightly higher median heart rate compared to patients with hypertension.The interquartile range (IQR) indicates the variability in heart rate within each group.
 
 ![Screenshot (35)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/307381eb-ce34-4149-b62c-9d942db38063)
+
+The interquartile range (IQR) is within 70 to 87 heart rate for the patients having History of Hypertension, suggesting that most hypertensive patients have heart rates within this range, which is generally slightly higher than non-hypertensive patients.
+### - Stroke History and CHD Risk
+Scatter Plot: Observes the prevalence of stroke across different age groups.
+
+![Screenshot (36)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/43ec08ae-d4e0-4d79-8441-c937729008c7)
