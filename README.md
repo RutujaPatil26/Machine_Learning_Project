@@ -18,3 +18,13 @@ The dataset contains the following attributes:
 - BMI
 - Heart Rate
 - Glucose
+## Project Structure
+The project is organized into several key sections:
+1. Problem Statement
+This section provides a clear definition of the problem, outlining the objectives of the project. The goal is to predict the 10-year risk of coronary heart disease (CHD) using a variety of patient attributes.
+2. Importing Libraries
+In this section, all necessary libraries are imported. These include:
+- 'pandas' and 'numpy' for data manipulation and analysis.
+- 'scikit-learn' for machine learning algorithms and model evaluation.
+- 'matplotlib' and 'seaborn' for data visualization.
+- 'warnings' to ignore warnings for cleaner outputs.
