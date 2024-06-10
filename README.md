@@ -39,3 +39,9 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset a
 Count Plot: Shows the distribution of patients by gender. 
 
 ![2024-06-10 (1)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/9540de3e-9d57-4bdf-8f96-dd495515ba09)
+
+There are more than 1,750 female patients and approximately 1,500 male patients.
+#### - CHD Risk Distribution
+Count Plot: Displays the distribution of patients with and without CHD risk.
+
+![Screenshot (32)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/cd99092a-c6e6-4962-8f6b-a3a602b53285)
