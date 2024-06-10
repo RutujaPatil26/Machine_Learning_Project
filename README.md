@@ -77,3 +77,9 @@ Patients with a history of stroke and age above 50 years have a higher risk of C
 Scatter Plot: Displays the relationship between systolic blood pressure and hypertension.
 
 ![Screenshot (37)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/f88b5a94-4b5d-4625-b289-ca7535828b1d)
+
+There is a strong positive correlation between high systolic blood pressure and hypertension. The scatter plot shows a separation between individuals with and without hypertension based on their systolic blood pressure readings.
+### - Correlation Heatmap
+Heatmap: Shows the correlation matrix of the dataset.
+
+![Screenshot (38)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/46d3e16f-0257-4dec-bd96-7040f4112bed)
