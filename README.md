@@ -71,3 +71,9 @@ The interquartile range (IQR) is within 70 to 87 heart rate for the patients hav
 Scatter Plot: Observes the prevalence of stroke across different age groups.
 
 ![Screenshot (36)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/43ec08ae-d4e0-4d79-8441-c937729008c7)
+
+Patients with a history of stroke and age above 50 years have a higher risk of CHD.
+### - Blood Pressure and Hypertension
+Scatter Plot: Displays the relationship between systolic blood pressure and hypertension.
+
+![Screenshot (37)](https://github.com/RutujaPatil26/Machine_Learning_Project/assets/172021951/f88b5a94-4b5d-4625-b289-ca7535828b1d)
